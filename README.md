@@ -221,19 +221,19 @@ plt.show()
   2.saving image in png format and displaying
   ```
   ![image](https://github.com/user-attachments/assets/d7320464-6570-45c2-abc0-c0567405b9ad)
-  
   ```
   3.cropped image
+  ```
   ![image](https://github.com/user-attachments/assets/830b9e38-0d75-4ec8-9599-21c0b7feee6a)
   ```
-  ```
   4.flipped image
+  ```
   ![image](https://github.com/user-attachments/assets/aa1a0730-6a41-4900-9be1-6807c580d109)
   ```
-  ```
   5.apollo launch final image
-  ![image](https://github.com/user-attachments/assets/9950d185-e665-4d42-9948-ddbabbabf22c)
   ```
+  ![image](https://github.com/user-attachments/assets/9950d185-e665-4d42-9948-ddbabbabf22c)
+  
 
 - **ii)** Adjust Image Brightness.
 ![image](https://github.com/user-attachments/assets/4f2fa434-bb16-456f-94d6-cc7f83869d0f)
@@ -247,8 +247,8 @@ plt.show()
 
 -  
 - **iv)** Generate Third Image Using Bitwise Operations.
-- 1.splitting into b,g,r
-- ![image](https://github.com/user-attachments/assets/69380bf4-34e8-4a32-8874-23919e892d89)
+1.splitting into b,g,r
+![image](https://github.com/user-attachments/assets/69380bf4-34e8-4a32-8874-23919e892d89)
 ![image](https://github.com/user-attachments/assets/c1f3e356-c953-41ad-8b3f-06e19fb3551c)
 ![image](https://github.com/user-attachments/assets/d033621b-f81e-4a78-afd0-fdf8014b7b6c)
 
