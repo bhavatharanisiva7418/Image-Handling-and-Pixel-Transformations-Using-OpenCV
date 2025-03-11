@@ -241,22 +241,28 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/c3b68aac-f48e-472d-9060-2080b54e0214)
 ![image](https://github.com/user-attachments/assets/2c034766-f1d3-4429-bc4b-4e00bd94cf60)
 
+
 **iii)** Modify Image Contrast.
+
 ![image](https://github.com/user-attachments/assets/fc4e06ee-aa00-4017-9d9f-9df71d706127)
 ![image](https://github.com/user-attachments/assets/c1c4aaec-8d63-49da-97ba-2f93eb688272)
 ![image](https://github.com/user-attachments/assets/6f8f1238-ae44-4935-ba84-b33c1ec4b4b2)
 
--  
-- **iv)** Generate Third Image Using Bitwise Operations.
+ 
+**iv)** Generate Third Image Using Bitwise Operations.
+```
 1.splitting into b,g,r
+```
 ![image](https://github.com/user-attachments/assets/69380bf4-34e8-4a32-8874-23919e892d89)
 ![image](https://github.com/user-attachments/assets/c1f3e356-c953-41ad-8b3f-06e19fb3551c)
 ![image](https://github.com/user-attachments/assets/d033621b-f81e-4a78-afd0-fdf8014b7b6c)
-
+```
 2.splitting into h,s,v components
+```
 ![image](https://github.com/user-attachments/assets/4dae950c-ca76-4a1b-981e-d1fb4cb4f43b)
 ![image](https://github.com/user-attachments/assets/a1a526d1-f8c1-4037-bf2f-aa025b5cdd91)
 ![image](https://github.com/user-attachments/assets/c4bcda2f-bb7d-493b-b4b0-fc622b7f887f)
+
 3.final output
 ![image](https://github.com/user-attachments/assets/c0dd6600-fd85-43e8-98c7-e969371b92e9)
 
