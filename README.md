@@ -214,7 +214,7 @@ plt.show()
 ## Output:
 - **i)** Read and Display an Image.
 - 1.grayscale image
-- ![image](https://github.com/user-attachments/assets/4ddb657c-6cb5-46e7-a995-99e84faee96e)
+  ![image](https://github.com/user-attachments/assets/4ddb657c-6cb5-46e7-a995-99e84faee96e)
   2.saving image in png format and displaying
   ![image](https://github.com/user-attachments/assets/d7320464-6570-45c2-abc0-c0567405b9ad)
   3.cropped image
@@ -225,12 +225,12 @@ plt.show()
   ![image](https://github.com/user-attachments/assets/9950d185-e665-4d42-9948-ddbabbabf22c)
 
 - **ii)** Adjust Image Brightness.
-- ![image](https://github.com/user-attachments/assets/4f2fa434-bb16-456f-94d6-cc7f83869d0f)
+![image](https://github.com/user-attachments/assets/4f2fa434-bb16-456f-94d6-cc7f83869d0f)
 ![image](https://github.com/user-attachments/assets/c3b68aac-f48e-472d-9060-2080b54e0214)
 ![image](https://github.com/user-attachments/assets/2c034766-f1d3-4429-bc4b-4e00bd94cf60)
 
 - **iii)** Modify Image Contrast.
-- ![image](https://github.com/user-attachments/assets/fc4e06ee-aa00-4017-9d9f-9df71d706127)
+![image](https://github.com/user-attachments/assets/fc4e06ee-aa00-4017-9d9f-9df71d706127)
 ![image](https://github.com/user-attachments/assets/c1c4aaec-8d63-49da-97ba-2f93eb688272)
 ![image](https://github.com/user-attachments/assets/6f8f1238-ae44-4935-ba84-b33c1ec4b4b2)
 
