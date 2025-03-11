@@ -235,12 +235,13 @@ plt.show()
   ![image](https://github.com/user-attachments/assets/9950d185-e665-4d42-9948-ddbabbabf22c)
   
 
-- **ii)** Adjust Image Brightness.
+**ii)** Adjust Image Brightness.
+
 ![image](https://github.com/user-attachments/assets/4f2fa434-bb16-456f-94d6-cc7f83869d0f)
 ![image](https://github.com/user-attachments/assets/c3b68aac-f48e-472d-9060-2080b54e0214)
 ![image](https://github.com/user-attachments/assets/2c034766-f1d3-4429-bc4b-4e00bd94cf60)
 
-- **iii)** Modify Image Contrast.
+**iii)** Modify Image Contrast.
 ![image](https://github.com/user-attachments/assets/fc4e06ee-aa00-4017-9d9f-9df71d706127)
 ![image](https://github.com/user-attachments/assets/c1c4aaec-8d63-49da-97ba-2f93eb688272)
 ![image](https://github.com/user-attachments/assets/6f8f1238-ae44-4935-ba84-b33c1ec4b4b2)
