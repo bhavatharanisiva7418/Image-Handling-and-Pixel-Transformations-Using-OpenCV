@@ -213,6 +213,7 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
+  ```
 - 1.grayscale image
   ![image](https://github.com/user-attachments/assets/4ddb657c-6cb5-46e7-a995-99e84faee96e)
   2.saving image in png format and displaying
@@ -223,6 +224,7 @@ plt.show()
   ![image](https://github.com/user-attachments/assets/aa1a0730-6a41-4900-9be1-6807c580d109)
   5.apollo launch final image
   ![image](https://github.com/user-attachments/assets/9950d185-e665-4d42-9948-ddbabbabf22c)
+  ```
 
 - **ii)** Adjust Image Brightness.
 ![image](https://github.com/user-attachments/assets/4f2fa434-bb16-456f-94d6-cc7f83869d0f)
