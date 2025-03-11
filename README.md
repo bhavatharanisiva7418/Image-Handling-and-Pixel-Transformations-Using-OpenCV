@@ -214,14 +214,22 @@ plt.show()
 ## Output:
 - **i)** Read and Display an Image.
   ```
-- 1.grayscale image
+  1.grayscale image
   ![image](https://github.com/user-attachments/assets/4ddb657c-6cb5-46e7-a995-99e84faee96e)
+  ```
+  ```
   2.saving image in png format and displaying
   ![image](https://github.com/user-attachments/assets/d7320464-6570-45c2-abc0-c0567405b9ad)
+  ```
+  ```
   3.cropped image
   ![image](https://github.com/user-attachments/assets/830b9e38-0d75-4ec8-9599-21c0b7feee6a)
+  ```
+  ```
   4.flipped image
   ![image](https://github.com/user-attachments/assets/aa1a0730-6a41-4900-9be1-6807c580d109)
+  ```
+  ```
   5.apollo launch final image
   ![image](https://github.com/user-attachments/assets/9950d185-e665-4d42-9948-ddbabbabf22c)
   ```
