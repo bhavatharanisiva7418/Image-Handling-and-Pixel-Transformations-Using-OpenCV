@@ -215,12 +215,13 @@ plt.show()
 - **i)** Read and Display an Image.
   ```
   1.grayscale image
+  ```
   ![image](https://github.com/user-attachments/assets/4ddb657c-6cb5-46e7-a995-99e84faee96e)
   ```
-  ```
   2.saving image in png format and displaying
-  ![image](https://github.com/user-attachments/assets/d7320464-6570-45c2-abc0-c0567405b9ad)
   ```
+  ![image](https://github.com/user-attachments/assets/d7320464-6570-45c2-abc0-c0567405b9ad)
+  
   ```
   3.cropped image
   ![image](https://github.com/user-attachments/assets/830b9e38-0d75-4ec8-9599-21c0b7feee6a)
