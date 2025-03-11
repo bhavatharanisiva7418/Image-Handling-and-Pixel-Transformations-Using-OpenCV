@@ -262,8 +262,9 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/4dae950c-ca76-4a1b-981e-d1fb4cb4f43b)
 ![image](https://github.com/user-attachments/assets/a1a526d1-f8c1-4037-bf2f-aa025b5cdd91)
 ![image](https://github.com/user-attachments/assets/c4bcda2f-bb7d-493b-b4b0-fc622b7f887f)
-
+```
 3.final output
+```
 ![image](https://github.com/user-attachments/assets/c0dd6600-fd85-43e8-98c7-e969371b92e9)
 
 ## Result:
