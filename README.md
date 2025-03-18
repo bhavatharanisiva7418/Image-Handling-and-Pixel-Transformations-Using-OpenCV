@@ -225,7 +225,8 @@ plt.show()
   ```
   3.cropped image
   ```
-  ![image](https://github.com/user-attachments/assets/830b9e38-0d75-4ec8-9599-21c0b7feee6a)
+  ![image](https://github.com/user-attachments/assets/a353b4a6-9d22-4f90-97a0-c923dbbf1e94)
+
   ```
   4.flipped image
   ```
