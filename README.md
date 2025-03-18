@@ -261,8 +261,8 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/d033621b-f81e-4a78-afd0-fdf8014b7b6c)
 ```
 2.Merged bgr image
-![image](https://github.com/user-attachments/assets/3d780fee-4c64-4059-b138-abe22ed2637f)
 ```
+![image](https://github.com/user-attachments/assets/3d780fee-4c64-4059-b138-abe22ed2637f)
 
 ```
 3.splitting into h,s,v components
