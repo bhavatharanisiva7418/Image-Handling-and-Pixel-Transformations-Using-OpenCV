@@ -212,6 +212,7 @@ plt.show()
 ```
 
 ## Output:
+## 17-03-2025
 - **i)** Read and Display an Image.
   ```
   1.grayscale image
@@ -259,16 +260,21 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/c1f3e356-c953-41ad-8b3f-06e19fb3551c)
 ![image](https://github.com/user-attachments/assets/d033621b-f81e-4a78-afd0-fdf8014b7b6c)
 ```
-2.splitting into h,s,v components
+2.Merged bgr image
+![image](https://github.com/user-attachments/assets/3d780fee-4c64-4059-b138-abe22ed2637f)
+```
+
+```
+3.splitting into h,s,v components
 ```
 ![image](https://github.com/user-attachments/assets/4dae950c-ca76-4a1b-981e-d1fb4cb4f43b)
 ![image](https://github.com/user-attachments/assets/a1a526d1-f8c1-4037-bf2f-aa025b5cdd91)
 ![image](https://github.com/user-attachments/assets/c4bcda2f-bb7d-493b-b4b0-fc622b7f887f)
 ```
-3.final output
+4.final output
 ```
 ![image](https://github.com/user-attachments/assets/c0dd6600-fd85-43e8-98c7-e969371b92e9)
-
+## 17-03-2025
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
