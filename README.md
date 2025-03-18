@@ -220,7 +220,8 @@ plt.show()
   ```
   2.saving image in png format and displaying
   ```
-  ![image](https://github.com/user-attachments/assets/d7320464-6570-45c2-abc0-c0567405b9ad)
+![image](https://github.com/user-attachments/assets/4fd46534-8dc6-4160-b413-6a1f387d76d1)
+
   ```
   3.cropped image
   ```
